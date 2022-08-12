@@ -72,7 +72,7 @@
     "rules": {}
   },
   "peerDependencies": {
-    "vue": "^2.6.12"
+    "vue": "^3.0.0"
   },
   "engines": {
     "node": ">=12"
